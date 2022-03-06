@@ -1098,6 +1098,7 @@ export interface OptsChartData {
 	name?: string
 	sizes?: number[]
 	values?: number[]
+	labelsdata?: string[]
 	/**
 	 * Override `chartColors`
 	 */

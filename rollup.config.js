@@ -7,7 +7,7 @@ export default {
   input: "src/pptxgen.ts",
   output: [
     {
-      file: "./src/bld/pptxgen.js",
+      file: "../dataanalyst/public/src/bld/pptxgen.js",
       format: "iife",
       name: "PptxGenJS",
       globals: {
